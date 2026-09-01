@@ -13,3 +13,4 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-09-01T11:20:25.251Z,T0001,,297915765,submit_encoding,accepted,,campaign.submitEncoding,1,"{""task_id"":""T0001""}"
 2026-09-01T11:27:35.597Z,T0001,S0001,38179254,claim_validation,accepted,,campaign.claimValidation,1,"{""task_id"":""T0001"",""subtask_id"":""S0001""}"
 2026-09-01T13:01:10.132Z,T0001,S0001,38179254,submit_validation,accepted,pass,campaign.submitValidation,2,"{""task_id"":""T0001"",""subtask_id"":""S0001"",""verdict"":""pass""}"
+2026-09-01T13:01:29.451Z,T0003,,38179254,resolve_comment,accepted,addition,campaign.resolveComment,1,"{""comment_id"":""b7ff8dde""}"
